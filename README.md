@@ -17,3 +17,5 @@ The user will need to store:
  1. [Download the GLORYS monthly data](https://data.marine.copernicus.eu/product/GLOBAL_MULTIYEAR_PHY_001_030/services). You can find directions on how to download the data [here](https://help.marine.copernicus.eu/en/articles/4469993-how-to-download-copernicus-marine-products)
  2.  Run **Compute Anomalies and Climatologies.ipynb**. Please be mindful of the file path and name for the next step.
  3.  Run **3D EOFs GLORYS.ipynb**. This is heavily dependent on the path the user saved the raw data and anomalies to.
+
+[![DOI](https://zenodo.org/badge/1038361604.svg)](https://doi.org/10.5281/zenodo.17451617)
